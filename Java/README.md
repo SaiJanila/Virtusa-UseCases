@@ -42,3 +42,7 @@ Scanner class for user input
 Java (Core Java)
 
 VS Code
+
+
+<img width="923" height="170" alt="image" src="https://github.com/user-attachments/assets/9aec3522-7681-418c-9995-0d4868e23bee" />
+
