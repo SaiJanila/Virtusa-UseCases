@@ -1,4 +1,5 @@
 **FareCalc - Travel Fare Calculator (Python)**
+
 **Project Description**
 
 This project is a simple Fare Calculation System built using Python.
