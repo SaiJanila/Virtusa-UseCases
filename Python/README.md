@@ -37,3 +37,9 @@ User Input Handling
 Python 3.x
 
 VS Code
+
+
+<img width="665" height="127" alt="image" src="https://github.com/user-attachments/assets/39c81b48-8bbd-4f58-b905-48d3736fc172" />
+
+
+<img width="633" height="120" alt="image" src="https://github.com/user-attachments/assets/8fdcfaf8-a635-4052-a5d9-ede70e6eef29" />
