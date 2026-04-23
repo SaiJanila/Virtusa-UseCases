@@ -1,4 +1,4 @@
-Rates = { "Ecomony" : 10, "Premium" : 18, "SUV" : 25}
+Rates = { "Economy" : 10, "Premium" : 18, "SUV" : 25}
 
 def calculate_fare(km, vehicle, hr):
     if vehicle not in Rates:
