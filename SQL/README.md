@@ -9,6 +9,7 @@ It helps track students, books, and issued records, and provides useful insights
 To design a relational database and perform queries to manage and analyze library data efficiently.
 
 **Database Structure**
+
 **1. Students Table**
 
 Stores student details:
