@@ -1,4 +1,5 @@
 **Password Validator (Java)**
+
 **Project Description**
 
 This project is a simple Password Validation System developed using Core Java.
